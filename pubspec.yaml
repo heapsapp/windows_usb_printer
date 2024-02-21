@@ -1,5 +1,5 @@
 name: windows_usb_printer
-description: Windows 平台使用，提供 1. 搜索获取已安装驱动的打印机列表 2. 向指定打印机发送打印内容
+description: Windows ffi usb handling
 version: 0.0.2+4
 author: lixiaohong<liyufengisme@gmail.com>
 homepage: https://github.com/liyufengrex/windows_usb_printer
